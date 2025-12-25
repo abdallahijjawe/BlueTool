@@ -83,3 +83,11 @@ ELK Stack – Log aggregation, analysis, and visualization.
 Chainsaw – Fast Sigma-based Windows event log hunting.
 
 Atomic Red Team – Detection validation through adversary technique simulation.
+
+
+## Default Credentials
+
+The virtual machine is provided with a default local user account for initial access.
+
+Password: 159753
+
